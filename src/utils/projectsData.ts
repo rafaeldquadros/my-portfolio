@@ -40,6 +40,6 @@ export const projects = [
     language: "Python/Django",
     description:
       "Este foi um projeto em equipe desenvolvido para conclusão de modulo de Python na Kenzie Academy Brasil. É um projeto de gerenciamento empresarial para uma livraria contendo inumeras lógicas personalizadas para a aplicação vale a pena conferir.",
-    html_url: "https://github.com/Projeto-Final-M3-Grupo-1/m4-api-deVolunteer",
+    html_url: "https://github.com/Api-library-G42/Library---G42",
   },
 ];
